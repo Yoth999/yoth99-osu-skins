@@ -19,11 +19,15 @@
     
 ![screenshot684](https://github.com/Yoth999/yoth99-osu-skins/assets/138562037/64156d02-b468-45af-84c4-abc0f4ac2f87)
 
+___
+
 ### [- **-『CodeName∶ Bloo』 - + 4k mania yoth99 edit**](https://drive.google.com/file/d/16LPESn9D68wjqCDA0_sbp50kwjMfLnCn/view?usp=sharing)
 ###### this skin is slightly edited from what I use because the original uses some private skin assets which the creator/owner doesn't want to publish
 
 *just a regular usable skin
 ![screenshot687](https://github.com/Yoth999/yoth99-osu-skins/assets/138562037/5d370201-4d30-45f5-9c4f-7dc828ba80dc)
+
+___
 
 ### [- !yoth99 mania skin](https://drive.google.com/file/d/1_nQbAJgSJICOXVcUXlc3RFLDHjlYmeIJ/view)
 ##### this skin sucks don't use it
