@@ -13,5 +13,7 @@ ___
 ___
 ### To use the overlay as an overlay in game, you must install [StreamCompanion-BrowserOverlay](https://github.com/Piotrekol/StreamCompanion/releases/) extension
 
+If the browser overlay doesn't work, install the text overlay too. It might fix it(idk why it's like this but it fixes it, I have this issue)
+
 the overlay can then be added normally  
 the recommended canvas size for the overlay is `width: 470, height: 75`
