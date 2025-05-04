@@ -16,4 +16,18 @@ ___
 If the browser overlay doesn't work, install the text overlay too. It might fix it(idk why it's like this but it fixes it, I have this issue)
 
 the overlay can then be added normally  
+
 the recommended canvas size for the overlay is `width: 470, height: 75`
+
+the recommended canvas size for V.2 overlay is `width: 310, height: 110`
+
+
+## preview of overlays
+
+### !yoth99
+![preview of overlay v.1](overlay-V1.png)
+Made to meet my needs
+
+### !yoth99 V.2
+![preview of overlay v.2](overlay-V2.png)
+Made for palmEuEi to use since he uses a wider stage
